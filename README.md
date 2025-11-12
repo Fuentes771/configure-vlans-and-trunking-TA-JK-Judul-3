@@ -140,11 +140,8 @@ Lakukan **ping antar host**:
 **📶 Hasil Ping Berhasil (PC-A ke PC-B)**
 ![Ping Sukses](Dokumentasi/PingBerhasil.png)
 
-**📶 Hasil Ping VLAN Management**
-![Ping VLAN99](Dokumentasi/PingVLAN99.png)
-
-**⚙️ Tampilan Trunking**
-![Trunk Interface](Dokumentasi/Trunk.png)
+**📶 Hasil Ping VLAN (S1 ke S2)**
+![Ping VLAN99](Dokumentasi/PingVLAN.png)
 
 ---
 
